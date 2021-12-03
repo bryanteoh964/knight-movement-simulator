@@ -1,0 +1,19 @@
+To Do
+- set icon
+
+- make blue square marker for picking next spot
+- allow pressing return to change placement of knight
+- create knight shell elements
+- make knight shell elements surround knight one block NSEW
+
+- create function that finds possible moves
+- move knight properly
+- make piece move smoothly and gently over (animation)
+- functions to make it easier to scale view of application
+
+INFINITE SCALING
+- create board of any size and any number of squares
+- place numbers in spots of positioning
+
+COMMENTS:
+- I like how I can use code to commpute things, but pygame takes it to another level with the challenge of visualizing the calculations
