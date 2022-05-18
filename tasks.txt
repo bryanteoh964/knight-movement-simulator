@@ -16,4 +16,4 @@ INFINITE SCALING
 - place numbers in spots of positioning
 
 COMMENTS:
-- I like how I can use code to commpute things, but pygame takes it to another level with the challenge of visualizing the calculations
+- I like how I can use code to compute things, but pygame takes it to another level with the challenge of visualizing the calculations
